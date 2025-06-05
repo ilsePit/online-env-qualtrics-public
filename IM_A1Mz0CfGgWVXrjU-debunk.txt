@@ -2,4 +2,4 @@ This headline originated on a satirical website. There is no credible evidence t
 
 TEST 
 
-<a href="https://www.factcheck.org/2017/05/bogus-bald-eagle-executive-order/" target="_blank"></a>
+<a href="https://www.factcheck.org/2017/05/bogus-bald-eagle-executive-order/" target="_blank">Click here for more information</a>
